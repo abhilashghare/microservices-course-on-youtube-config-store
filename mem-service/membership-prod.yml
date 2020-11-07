@@ -1,0 +1,4 @@
+  
+service:
+  greeting: Hello from membership-prod
+  id: 121212
